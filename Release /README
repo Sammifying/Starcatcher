@@ -1,1 +1,4 @@
-
+To install the game, download `setup.zip`. 
+1. Unzip the file, then run `setup.exe`. 
+2. Administrator privileges are required to run the installer, as the game needs to install the `VPCH2` font. 
+If this font was not already installed on your system, it will be automatically removed when you uninstall the game.
